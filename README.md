@@ -1,4 +1,4 @@
 # AutoSktFI
 
-  Codes and Supplementary Materials for "Enhanced Deep Aniimation Video Interpolation"
+  Codes and Supplementary Materials for "Enhanced Deep Animation Video Interpolation"
 
